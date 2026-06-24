@@ -1,0 +1,2 @@
+export GITHUB_TOKEN=ghp_xxxxxxxxxxxx
+python github_commit 11_role.py
